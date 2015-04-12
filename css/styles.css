@@ -2,3 +2,42 @@
 body {
 	background: #a10023;
 }
+
+h1 {
+	background: yellow;
+	border-radius: 100px;
+	line-height: 100px;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	color: #fff;
+}
+
+h1:hover {
+	background: blue;
+	margin-top: 50px;
+	transition: background 1s;
+}
+
+h3 {
+	background: teal;
+	border-radius: 100px;
+	line-height: 100px;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+}
+
+
+p {
+	background: cornflowerblue;
+	width: 100px;
+
+}
+
+a {
+	background: green;
+	display: block;
+	width: 100px;
+	height: 100px;
+}
